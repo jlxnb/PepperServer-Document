@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: 'PepperCraft',
+  tagline: 'PepperCraft服务器文档',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://postyizhan.github.io',
+  url: 'http://docs.pcraft.eu.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'postyizhan', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  organizationName: 'jlxnb', // Usually your GitHub org/user name.
+  projectName: 'PepperServer-Document', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
