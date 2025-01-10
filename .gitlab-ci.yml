@@ -1,0 +1,25 @@
+image: node:20.12.1
+
+stages:
+  - test
+  - deploy
+
+test:
+  stage: test
+  script:
+  - npm install
+  - npm run build
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+
+pages:
+  stage: deploy
+  script:
+  - npm install
+  - npm run build
+  - mv ./build ./public
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
