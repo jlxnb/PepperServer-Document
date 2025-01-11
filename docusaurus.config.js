@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/postyizhan/Wiki-Template',
+            href: 'https://github.com/jlxnb/PepperServer-Document',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://qm.qq.com/q/dENGavSflK',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BNDtGXRLBByex13wKAbcFHKLuNgiJZ7J&authKey=luNiluenZMRaSc37Z3NFAexAJUuNLkJBzPV90DtDookyJ3hqNGfUw7AO7u2zNAtd&noverify=0&group_code=754966689',
               },
             ],
           },
@@ -121,7 +121,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Pepper, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
