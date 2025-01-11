@@ -18,8 +18,8 @@ sidebar_position: 1
    
   **/tpa Pepper** ✓
   
-  */tpa <Pepper>* ×
+  */tpa \<Pepper\>* ×
   
-  */tpa <玩家名>* ×
+  */tpa \<玩家名\>* ×
   
 - 未完待续:)
