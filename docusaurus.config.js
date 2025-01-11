@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/jlxnb/PepperServer-Document'
+            'https://github.com/jlxnb/PepperServer-Document/blob/main'
         },
         blog: false,
         theme: {
