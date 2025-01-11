@@ -14,7 +14,7 @@ const config = {
   url: 'http://docs.pcraft.eu.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/PepperServer-Document/0',
+  baseUrl: '/PepperServer-Document/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
