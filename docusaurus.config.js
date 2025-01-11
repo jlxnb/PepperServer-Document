@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/postyizhan/Wiki-Template',
+                href: 'https://github.com/jlxnb/PepperServer-Document',
               },
             ],
           },
