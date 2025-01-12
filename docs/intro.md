@@ -16,10 +16,10 @@ sidebar_position: 1
   
   假设你需要对名为Pepper的玩家执行命令:
    
-  **/tpa Pepper** ✓
-  
-  */tpa \<Pepper\>* ×
-  
-  */tpa \<玩家名\>* ×
+| 命令          | 正误 |
+|---------------|:----:|
+| **/tpa Pepper**   |   ✅  |
+| /tpa <Pepper> |   ❌  |
+| /tpa <玩家名> |   ❌  |
   
 - 未完待续:)
