@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
- <span style="color:green">Pepper</span>❤️Craft 服务器官方文档
+# Pepper❤️Craft 服务器官方文档
 > Written by: AtomicalPepper
 
 👋 欢迎来到我们的服务器文档！
