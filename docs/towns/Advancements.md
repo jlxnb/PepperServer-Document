@@ -4,9 +4,7 @@ sidebar_position: 5
 
 # 成就
 
-城镇成就功能提供了一种有趣的方式，既教会您的玩家如何使用HuskTowns，又提供了引人入胜的挑战以持续促进他们的成长。
-
-成就功能默认是关闭的，可以通过服务器[配置文件](config-files)中`general`下的`do_advancements`选项来启用或禁用。城镇成就可以通过位于`/plugins/HuskTowns/`目录下的`advancements.json`文件进行自定义。
+城镇成就功能提供了一种有趣的方式，可以教会我们如何使用领地系统。
 
 ## 成就列表
 
