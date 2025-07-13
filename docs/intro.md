@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Pepper❤️Craft 服务器官方文档
@@ -13,7 +13,7 @@ sidebar_position: 1
 
   服务器地址: **pepper.ltd**
 
-  支持版本: **1.20~1.21.4** (建议使用1.21.4)
+  支持版本: **1.20～1.21.7** (建议使用1.21.7）
 
   文档开源地址: [点我点我](https://github.com/jlxnb/PepperServer-Document/)
 
